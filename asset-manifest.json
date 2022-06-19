@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sharmila-KA.github.io/Team-Management-Application/static/css/main.382a05bb.css",
+    "main.js": "/Sharmila-KA.github.io/Team-Management-Application/static/js/main.099a261f.js",
+    "index.html": "/Sharmila-KA.github.io/Team-Management-Application/index.html",
+    "main.382a05bb.css.map": "/Sharmila-KA.github.io/Team-Management-Application/static/css/main.382a05bb.css.map",
+    "main.099a261f.js.map": "/Sharmila-KA.github.io/Team-Management-Application/static/js/main.099a261f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.382a05bb.css",
+    "static/js/main.099a261f.js"
+  ]
+}
